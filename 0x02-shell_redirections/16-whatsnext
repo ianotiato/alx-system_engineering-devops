@@ -1,4 +1,2 @@
 #!/bin/bash
-egrep -A 3 root /etc/passwd >> 16-whatsnext
-echo egrep -A 3 root /etc/passwd
 egrep -A 3 root /etc/passwd
